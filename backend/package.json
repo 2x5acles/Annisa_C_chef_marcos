@@ -1,1 +1,13 @@
+{
+  "name": "chef-marcos-api",
+  "version": "1.0.0",
+  "description": "Backend for Chef Marco's Italian Bistro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
 
